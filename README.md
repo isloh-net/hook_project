@@ -1,1 +1,1 @@
-test
+<strong>TEST</strong>
